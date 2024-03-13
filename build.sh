@@ -71,6 +71,7 @@ function clone_source_code() {
     git_clone_repo https://gitlab.kitware.com/vtk/vtk.git v9.3.0
     git_clone_repo https://github.com/flann-lib/flann.git 1.9.2
     git_clone_repo https://github.com/lz4/lz4.git v1.9.4
+    git_clone_repo https://github.com/google/filament.git v1.50.6
 }
 
 
